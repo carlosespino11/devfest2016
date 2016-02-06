@@ -1,6 +1,5 @@
 $(function() {
-
-
+  
 	var emotions_data = (function () {
       var json = null;
       $.ajax({
@@ -34,7 +33,6 @@ $(function() {
     inner["entities"] = obj["entities"]
     text_map[obj["_id"]] = inner
   }) 
-  console.log(text_map)
 
   var hillary = {'anger' : [],
      "contempt": [],
@@ -71,15 +69,15 @@ $(function() {
 			emotions.forEach(function(emo){
 				sanders[emo].push({"x": i , "y" : object[emo]})
 			});
-			index_sanders[i] =  object["ID"]
-			d3.select("#sanders-picker").append("option").text(i)
+			index_sanders[i*15] =  object["ID"]
+			d3.select("#sanders-picker").append("option").text(i*15)
 			i = i+1
 		}else{
 			emotions.forEach(function(emo){
 				hillary[emo].push({"x": j , "y" : object[emo]})
 			});
-			index_hillary[j] =  object["ID"]
-			d3.select("#hillary-picker").append("option").text(j)
+			index_hillary[j*15] =  object["ID"]
+			d3.select("#hillary-picker").append("option").text(j*15)
 			j = j+1;
 		}
 
@@ -202,30 +200,38 @@ var data_sanders= [
       style: 'btn-info',
       size: 4
     });
-	// var chart1 = document.getElementById("line-chart").getContext("2d");
-	// window.myLine = new Chart(chart1).Line(lineChartData, {
-	// 	responsive: true
-	// });
-	// var chart12 = document.getElementById("line-chart2").getContext("2d");
-	// window.myLine = new Chart(chart12).Line(lineChartData, {
-	// 	responsive: true,
-	// 	datasetFill : false
-	// });
-	// var chart2 = document.getElementById("bar-chart").getContext("2d");
-	// window.myBar = new Chart(chart2).Bar(barChartData, {
-	// 	responsive : true
-	// });
+
 	var hillary_select = $("#hillary-picker").on("changed.bs.select", function(e){
     var selectedText = $(this).find("option:selected").text();
     var img_id = index_hillary[selectedText]
     var img_path = "./photos_deb/frame_"+ img_id
     var text_id = "frame_"+ img_id
     var text = text_map[text_id]["text"]
+    console.log(text_id)
 
     $("#debate-image").attr("src", img_path)
     $("#candidate-image").attr("src", "img/hillary.jpg")
     $("#candidate-name").text("Hillary Clinton")
     $("#debate-script").text(text)
+    entities = text_map[text_id]["entities"]
+    entities_list = []
+    for(var key in entities){
+      entities_list.push({"entity": key, "sentiment":entities[key]["sent"], "score":entities[key]["sent_score"]})
+      
+    }
+    
+    d3.select("#entities-container").text("")
+    div = d3.select("#entities-container").selectAll("div")
+        .data(entities_list)
+        .enter()
+    dl = div.append("dl").attr("class","dl-horizontal")
+
+    dl.append("dt").text("Entity")
+    dl.append("dd").text(function(d){return(d["entity"])})
+    dl.append("dt").text("Sentiment")
+    dl.append("dd").text(function(d){return(d["sentiment"])})
+    dl.append("dt").text("Score")
+    dl.append("dd").text(function(d){return(d["score"])})
   })
   var sanders_select = $("#sanders-picker").on("changed.bs.select", function(e){
     var selectedText = $(this).find("option:selected").text();
@@ -238,13 +244,59 @@ var data_sanders= [
     $("#candidate-image").attr("src", "img/sanders.jpg")
     $("#candidate-name").text("Bernie Sanders")
     $("#debate-script").text(text)
+    entities = text_map[text_id]["entities"]
+    entities_list = []
+
+    for(var key in entities){
+      entities_list.push({"entity": key, "sentiment":entities[key]["sent"], "score":entities[key]["sent_score"]})
+      
+    }
+    
+    d3.select("#entities-container").text("")
+    div = d3.select("#entities-container").selectAll("div")
+        .data(entities_list)
+        .enter()
+    dl = div.append("dl").attr("class","dl-horizontal")
+
+    dl.append("dt").text("Entity")
+    dl.append("dd").text(function(d){return(d["entity"])})
+    dl.append("dt").text("Sentiment")
+    dl.append("dd").text(function(d){return(d["sentiment"])})
+    dl.append("dt").text("Score")
+    dl.append("dd").text(function(d){return(d["score"])})
   })
-  // var hillary_select = $("#hillary-picker").on("changed.bs.select", function(e){
-  //   var selectedText = $(this).find("option:selected").text();
-  //   var img_id = index_hillary[selectedText]
-  //   var img_path = "./photos_deb/frame_"+ img_id
-  //   $("#debate-image").attr("src", img_path)
-  //   // $("#debate-script").text()
-  // })
-	
+  function init(){
+      default_time_id = 50*15
+
+      var img_id = index_hillary[default_time_id]
+      var img_path = "./photos_deb/frame_"+ img_id
+      var text_id = "frame_"+ img_id
+
+      var text = text_map[text_id]["text"]
+
+      $("#debate-image").attr("src", img_path)
+      $("#candidate-image").attr("src", "img/hillary.jpg")
+      $("#candidate-name").text("Hillary Clinton")
+      $("#debate-script").text(text)
+      entities = text_map[text_id]["entities"]
+      entities_list = []
+      for(var key in entities){
+        entities_list.push({"entity": key, "sentiment":entities[key]["sent"], "score":entities[key]["sent_score"]})
+        
+      }
+      
+      d3.select("#entities-container").text("")
+      div = d3.select("#entities-container").selectAll("div")
+          .data(entities_list)
+          .enter()
+      dl = div.append("dl").attr("class","dl-horizontal")
+
+      dl.append("dt").text("Entity")
+      dl.append("dd").text(function(d){return(d["entity"])})
+      dl.append("dt").text("Sentiment")
+      dl.append("dd").text(function(d){return(d["sentiment"])})
+      dl.append("dt").text("Score")
+      dl.append("dd").text(function(d){return(d["score"])})
+    }
+  init()
 });
