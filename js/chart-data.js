@@ -67,14 +67,14 @@ $(function() {
 	emotions_data.forEach(function(object){
 		if(object["gender"] == "male"){
 			emotions.forEach(function(emo){
-				sanders[emo].push({"x": i , "y" : object[emo]})
+				sanders[emo].push({"x": i*15 , "y" : object[emo]})
 			});
 			index_sanders[i*15] =  object["ID"]
 			d3.select("#sanders-picker").append("option").text(i*15)
 			i = i+1
 		}else{
 			emotions.forEach(function(emo){
-				hillary[emo].push({"x": j , "y" : object[emo]})
+				hillary[emo].push({"x": j*15 , "y" : object[emo]})
 			});
 			index_hillary[j*15] =  object["ID"]
 			d3.select("#hillary-picker").append("option").text(j*15)
