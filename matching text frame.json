@@ -1,0 +1,3550 @@
+[
+  {
+    "frame": "frame_000001.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_000251.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_000501.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_000751.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_001001.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_001251.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_001501.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_001751.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_002001.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_002251.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_002501.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_002751.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_003001.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_003251.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_003501.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_003751.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_004001.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_004251.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_004501.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_004751.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_005001.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_005251.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_005501.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_005751.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_006001.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_006251.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_006501.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_006751.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_007001.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_007251.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_007501.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_007751.jpg",
+    "text_id": 0
+  },
+  {
+    "frame": "frame_008001.jpg",
+    "text_id": 1
+  },
+  {
+    "frame": "frame_008251.jpg",
+    "text_id": 1
+  },
+  {
+    "frame": "frame_008501.jpg",
+    "text_id": 1
+  },
+  {
+    "frame": "frame_008751.jpg",
+    "text_id": 1
+  },
+  {
+    "frame": "frame_009001.jpg",
+    "text_id": 1
+  },
+  {
+    "frame": "frame_009251.jpg",
+    "text_id": 1
+  },
+  {
+    "frame": "frame_009501.jpg",
+    "text_id": 1
+  },
+  {
+    "frame": "frame_009751.jpg",
+    "text_id": 1
+  },
+  {
+    "frame": "frame_010001.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_010251.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_010501.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_010751.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_011001.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_011251.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_011501.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_011751.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_012001.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_012251.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_012501.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_012751.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_013001.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_013251.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_013501.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_013751.jpg",
+    "text_id": 2
+  },
+  {
+    "frame": "frame_014001.jpg",
+    "text_id": 3
+  },
+  {
+    "frame": "frame_014251.jpg",
+    "text_id": 3
+  },
+  {
+    "frame": "frame_014501.jpg",
+    "text_id": 3
+  },
+  {
+    "frame": "frame_014751.jpg",
+    "text_id": 3
+  },
+  {
+    "frame": "frame_015001.jpg",
+    "text_id": 3
+  },
+  {
+    "frame": "frame_015251.jpg",
+    "text_id": 3
+  },
+  {
+    "frame": "frame_015501.jpg",
+    "text_id": 3
+  },
+  {
+    "frame": "frame_015751.jpg",
+    "text_id": 3
+  },
+  {
+    "frame": "frame_016001.jpg",
+    "text_id": 4
+  },
+  {
+    "frame": "frame_016251.jpg",
+    "text_id": 4
+  },
+  {
+    "frame": "frame_016501.jpg",
+    "text_id": 4
+  },
+  {
+    "frame": "frame_016751.jpg",
+    "text_id": 4
+  },
+  {
+    "frame": "frame_017001.jpg",
+    "text_id": 4
+  },
+  {
+    "frame": "frame_017251.jpg",
+    "text_id": 4
+  },
+  {
+    "frame": "frame_017501.jpg",
+    "text_id": 4
+  },
+  {
+    "frame": "frame_017751.jpg",
+    "text_id": 4
+  },
+  {
+    "frame": "frame_018001.jpg",
+    "text_id": 5
+  },
+  {
+    "frame": "frame_018251.jpg",
+    "text_id": 5
+  },
+  {
+    "frame": "frame_018501.jpg",
+    "text_id": 5
+  },
+  {
+    "frame": "frame_018751.jpg",
+    "text_id": 5
+  },
+  {
+    "frame": "frame_019001.jpg",
+    "text_id": 5
+  },
+  {
+    "frame": "frame_019251.jpg",
+    "text_id": 5
+  },
+  {
+    "frame": "frame_019501.jpg",
+    "text_id": 5
+  },
+  {
+    "frame": "frame_019751.jpg",
+    "text_id": 5
+  },
+  {
+    "frame": "frame_020001.jpg",
+    "text_id": 7
+  },
+  {
+    "frame": "frame_020251.jpg",
+    "text_id": 7
+  },
+  {
+    "frame": "frame_020501.jpg",
+    "text_id": 7
+  },
+  {
+    "frame": "frame_020751.jpg",
+    "text_id": 7
+  },
+  {
+    "frame": "frame_021001.jpg",
+    "text_id": 7
+  },
+  {
+    "frame": "frame_021251.jpg",
+    "text_id": 7
+  },
+  {
+    "frame": "frame_021501.jpg",
+    "text_id": 7
+  },
+  {
+    "frame": "frame_021751.jpg",
+    "text_id": 7
+  },
+  {
+    "frame": "frame_022001.jpg",
+    "text_id": 8
+  },
+  {
+    "frame": "frame_022251.jpg",
+    "text_id": 8
+  },
+  {
+    "frame": "frame_022501.jpg",
+    "text_id": 8
+  },
+  {
+    "frame": "frame_022751.jpg",
+    "text_id": 8
+  },
+  {
+    "frame": "frame_023001.jpg",
+    "text_id": 8
+  },
+  {
+    "frame": "frame_023251.jpg",
+    "text_id": 8
+  },
+  {
+    "frame": "frame_023501.jpg",
+    "text_id": 8
+  },
+  {
+    "frame": "frame_023751.jpg",
+    "text_id": 8
+  },
+  {
+    "frame": "frame_024001.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_024251.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_024501.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_024751.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_025001.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_025251.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_025501.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_025751.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_026001.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_026251.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_026501.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_026751.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_027001.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_027251.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_027501.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_027751.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_028001.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_028251.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_028501.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_028751.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_029001.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_029251.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_029501.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_029751.jpg",
+    "text_id": 9
+  },
+  {
+    "frame": "frame_030001.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_030251.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_030501.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_030751.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_031001.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_031251.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_031501.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_031751.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_032001.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_032251.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_032501.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_032751.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_033001.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_033251.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_033501.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_033751.jpg",
+    "text_id": 13
+  },
+  {
+    "frame": "frame_034001.jpg",
+    "text_id": 14
+  },
+  {
+    "frame": "frame_034251.jpg",
+    "text_id": 14
+  },
+  {
+    "frame": "frame_034501.jpg",
+    "text_id": 14
+  },
+  {
+    "frame": "frame_034751.jpg",
+    "text_id": 14
+  },
+  {
+    "frame": "frame_035001.jpg",
+    "text_id": 14
+  },
+  {
+    "frame": "frame_035251.jpg",
+    "text_id": 14
+  },
+  {
+    "frame": "frame_035501.jpg",
+    "text_id": 14
+  },
+  {
+    "frame": "frame_035751.jpg",
+    "text_id": 14
+  },
+  {
+    "frame": "frame_036001.jpg",
+    "text_id": 15
+  },
+  {
+    "frame": "frame_036251.jpg",
+    "text_id": 15
+  },
+  {
+    "frame": "frame_036501.jpg",
+    "text_id": 15
+  },
+  {
+    "frame": "frame_036751.jpg",
+    "text_id": 15
+  },
+  {
+    "frame": "frame_037001.jpg",
+    "text_id": 15
+  },
+  {
+    "frame": "frame_037251.jpg",
+    "text_id": 15
+  },
+  {
+    "frame": "frame_037501.jpg",
+    "text_id": 15
+  },
+  {
+    "frame": "frame_037751.jpg",
+    "text_id": 15
+  },
+  {
+    "frame": "frame_038001.jpg",
+    "text_id": 16
+  },
+  {
+    "frame": "frame_038251.jpg",
+    "text_id": 16
+  },
+  {
+    "frame": "frame_038501.jpg",
+    "text_id": 16
+  },
+  {
+    "frame": "frame_038751.jpg",
+    "text_id": 16
+  },
+  {
+    "frame": "frame_039001.jpg",
+    "text_id": 16
+  },
+  {
+    "frame": "frame_039251.jpg",
+    "text_id": 16
+  },
+  {
+    "frame": "frame_039501.jpg",
+    "text_id": 16
+  },
+  {
+    "frame": "frame_039751.jpg",
+    "text_id": 16
+  },
+  {
+    "frame": "frame_040001.jpg",
+    "text_id": 18
+  },
+  {
+    "frame": "frame_040251.jpg",
+    "text_id": 18
+  },
+  {
+    "frame": "frame_040501.jpg",
+    "text_id": 18
+  },
+  {
+    "frame": "frame_040751.jpg",
+    "text_id": 18
+  },
+  {
+    "frame": "frame_041001.jpg",
+    "text_id": 18
+  },
+  {
+    "frame": "frame_041251.jpg",
+    "text_id": 18
+  },
+  {
+    "frame": "frame_041501.jpg",
+    "text_id": 18
+  },
+  {
+    "frame": "frame_041751.jpg",
+    "text_id": 18
+  },
+  {
+    "frame": "frame_042001.jpg",
+    "text_id": 19
+  },
+  {
+    "frame": "frame_042251.jpg",
+    "text_id": 19
+  },
+  {
+    "frame": "frame_042501.jpg",
+    "text_id": 19
+  },
+  {
+    "frame": "frame_042751.jpg",
+    "text_id": 19
+  },
+  {
+    "frame": "frame_043001.jpg",
+    "text_id": 19
+  },
+  {
+    "frame": "frame_043251.jpg",
+    "text_id": 19
+  },
+  {
+    "frame": "frame_043501.jpg",
+    "text_id": 19
+  },
+  {
+    "frame": "frame_043751.jpg",
+    "text_id": 19
+  },
+  {
+    "frame": "frame_044001.jpg",
+    "text_id": 20
+  },
+  {
+    "frame": "frame_044251.jpg",
+    "text_id": 20
+  },
+  {
+    "frame": "frame_044501.jpg",
+    "text_id": 20
+  },
+  {
+    "frame": "frame_044751.jpg",
+    "text_id": 20
+  },
+  {
+    "frame": "frame_045001.jpg",
+    "text_id": 20
+  },
+  {
+    "frame": "frame_045251.jpg",
+    "text_id": 20
+  },
+  {
+    "frame": "frame_045501.jpg",
+    "text_id": 20
+  },
+  {
+    "frame": "frame_045751.jpg",
+    "text_id": 20
+  },
+  {
+    "frame": "frame_046001.jpg",
+    "text_id": 22
+  },
+  {
+    "frame": "frame_046251.jpg",
+    "text_id": 22
+  },
+  {
+    "frame": "frame_046501.jpg",
+    "text_id": 22
+  },
+  {
+    "frame": "frame_046751.jpg",
+    "text_id": 22
+  },
+  {
+    "frame": "frame_047001.jpg",
+    "text_id": 22
+  },
+  {
+    "frame": "frame_047251.jpg",
+    "text_id": 22
+  },
+  {
+    "frame": "frame_047501.jpg",
+    "text_id": 22
+  },
+  {
+    "frame": "frame_047751.jpg",
+    "text_id": 22
+  },
+  {
+    "frame": "frame_048001.jpg",
+    "text_id": 24
+  },
+  {
+    "frame": "frame_048251.jpg",
+    "text_id": 24
+  },
+  {
+    "frame": "frame_048501.jpg",
+    "text_id": 24
+  },
+  {
+    "frame": "frame_048751.jpg",
+    "text_id": 24
+  },
+  {
+    "frame": "frame_049001.jpg",
+    "text_id": 24
+  },
+  {
+    "frame": "frame_049251.jpg",
+    "text_id": 24
+  },
+  {
+    "frame": "frame_049501.jpg",
+    "text_id": 24
+  },
+  {
+    "frame": "frame_049751.jpg",
+    "text_id": 24
+  },
+  {
+    "frame": "frame_050001.jpg",
+    "text_id": 27
+  },
+  {
+    "frame": "frame_050251.jpg",
+    "text_id": 27
+  },
+  {
+    "frame": "frame_050501.jpg",
+    "text_id": 27
+  },
+  {
+    "frame": "frame_050751.jpg",
+    "text_id": 27
+  },
+  {
+    "frame": "frame_051001.jpg",
+    "text_id": 27
+  },
+  {
+    "frame": "frame_051251.jpg",
+    "text_id": 27
+  },
+  {
+    "frame": "frame_051501.jpg",
+    "text_id": 27
+  },
+  {
+    "frame": "frame_051751.jpg",
+    "text_id": 27
+  },
+  {
+    "frame": "frame_052001.jpg",
+    "text_id": 28
+  },
+  {
+    "frame": "frame_052251.jpg",
+    "text_id": 28
+  },
+  {
+    "frame": "frame_052501.jpg",
+    "text_id": 28
+  },
+  {
+    "frame": "frame_052751.jpg",
+    "text_id": 28
+  },
+  {
+    "frame": "frame_053001.jpg",
+    "text_id": 28
+  },
+  {
+    "frame": "frame_053251.jpg",
+    "text_id": 28
+  },
+  {
+    "frame": "frame_053501.jpg",
+    "text_id": 28
+  },
+  {
+    "frame": "frame_053751.jpg",
+    "text_id": 28
+  },
+  {
+    "frame": "frame_054001.jpg",
+    "text_id": 30
+  },
+  {
+    "frame": "frame_054251.jpg",
+    "text_id": 30
+  },
+  {
+    "frame": "frame_054501.jpg",
+    "text_id": 30
+  },
+  {
+    "frame": "frame_054751.jpg",
+    "text_id": 30
+  },
+  {
+    "frame": "frame_055001.jpg",
+    "text_id": 30
+  },
+  {
+    "frame": "frame_055251.jpg",
+    "text_id": 30
+  },
+  {
+    "frame": "frame_055501.jpg",
+    "text_id": 30
+  },
+  {
+    "frame": "frame_055751.jpg",
+    "text_id": 30
+  },
+  {
+    "frame": "frame_056001.jpg",
+    "text_id": 31
+  },
+  {
+    "frame": "frame_056251.jpg",
+    "text_id": 31
+  },
+  {
+    "frame": "frame_056501.jpg",
+    "text_id": 31
+  },
+  {
+    "frame": "frame_056751.jpg",
+    "text_id": 31
+  },
+  {
+    "frame": "frame_057001.jpg",
+    "text_id": 31
+  },
+  {
+    "frame": "frame_057251.jpg",
+    "text_id": 31
+  },
+  {
+    "frame": "frame_057501.jpg",
+    "text_id": 31
+  },
+  {
+    "frame": "frame_057751.jpg",
+    "text_id": 31
+  },
+  {
+    "frame": "frame_058001.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_058251.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_058501.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_058751.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_059001.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_059251.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_059501.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_059751.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_060001.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_060251.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_060501.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_060751.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_061001.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_061251.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_061501.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_061751.jpg",
+    "text_id": 32
+  },
+  {
+    "frame": "frame_062001.jpg",
+    "text_id": 33
+  },
+  {
+    "frame": "frame_062251.jpg",
+    "text_id": 33
+  },
+  {
+    "frame": "frame_062501.jpg",
+    "text_id": 33
+  },
+  {
+    "frame": "frame_062751.jpg",
+    "text_id": 33
+  },
+  {
+    "frame": "frame_063001.jpg",
+    "text_id": 33
+  },
+  {
+    "frame": "frame_063251.jpg",
+    "text_id": 33
+  },
+  {
+    "frame": "frame_063501.jpg",
+    "text_id": 33
+  },
+  {
+    "frame": "frame_063751.jpg",
+    "text_id": 33
+  },
+  {
+    "frame": "frame_064001.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_064251.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_064501.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_064751.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_065001.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_065251.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_065501.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_065751.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_066001.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_066251.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_066501.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_066751.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_067001.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_067251.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_067501.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_067751.jpg",
+    "text_id": 34
+  },
+  {
+    "frame": "frame_068001.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_068251.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_068501.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_068751.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_069001.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_069251.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_069501.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_069751.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_070001.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_070251.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_070501.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_070751.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_071001.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_071251.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_071501.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_071751.jpg",
+    "text_id": 35
+  },
+  {
+    "frame": "frame_072001.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_072251.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_072501.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_072751.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_073001.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_073251.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_073501.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_073751.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_074001.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_074251.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_074501.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_074751.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_075001.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_075251.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_075501.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_075751.jpg",
+    "text_id": 36
+  },
+  {
+    "frame": "frame_076001.jpg",
+    "text_id": 37
+  },
+  {
+    "frame": "frame_076251.jpg",
+    "text_id": 37
+  },
+  {
+    "frame": "frame_076501.jpg",
+    "text_id": 37
+  },
+  {
+    "frame": "frame_076751.jpg",
+    "text_id": 37
+  },
+  {
+    "frame": "frame_077001.jpg",
+    "text_id": 37
+  },
+  {
+    "frame": "frame_077251.jpg",
+    "text_id": 37
+  },
+  {
+    "frame": "frame_077501.jpg",
+    "text_id": 37
+  },
+  {
+    "frame": "frame_077751.jpg",
+    "text_id": 37
+  },
+  {
+    "frame": "frame_078001.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_078251.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_078501.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_078751.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_079001.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_079251.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_079501.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_079751.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_080001.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_080251.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_080501.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_080751.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_081001.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_081251.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_081501.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_081751.jpg",
+    "text_id": 38
+  },
+  {
+    "frame": "frame_082001.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_082251.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_082501.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_082751.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_083001.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_083251.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_083501.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_083751.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_084001.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_084251.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_084501.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_084751.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_085001.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_085251.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_085501.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_085751.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_086001.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_086251.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_086501.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_086751.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_087001.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_087251.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_087501.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_087751.jpg",
+    "text_id": 40
+  },
+  {
+    "frame": "frame_088001.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_088251.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_088501.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_088751.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_089001.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_089251.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_089501.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_089751.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_090001.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_090251.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_090501.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_090751.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_091001.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_091251.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_091501.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_091751.jpg",
+    "text_id": 41
+  },
+  {
+    "frame": "frame_092001.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_092251.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_092501.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_092751.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_093001.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_093251.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_093501.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_093751.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_094001.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_094251.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_094501.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_094751.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_095001.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_095251.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_095501.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_095751.jpg",
+    "text_id": 42
+  },
+  {
+    "frame": "frame_096001.jpg",
+    "text_id": 43
+  },
+  {
+    "frame": "frame_096251.jpg",
+    "text_id": 43
+  },
+  {
+    "frame": "frame_096501.jpg",
+    "text_id": 43
+  },
+  {
+    "frame": "frame_096751.jpg",
+    "text_id": 43
+  },
+  {
+    "frame": "frame_097001.jpg",
+    "text_id": 43
+  },
+  {
+    "frame": "frame_097251.jpg",
+    "text_id": 43
+  },
+  {
+    "frame": "frame_097501.jpg",
+    "text_id": 43
+  },
+  {
+    "frame": "frame_097751.jpg",
+    "text_id": 43
+  },
+  {
+    "frame": "frame_098001.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_098251.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_098501.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_098751.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_099001.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_099251.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_099501.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_099751.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_0100001.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_0100251.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_0100501.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_0100751.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_0101001.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_0101251.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_0101501.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_0101751.jpg",
+    "text_id": 44
+  },
+  {
+    "frame": "frame_0102001.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0102251.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0102501.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0102751.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0103001.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0103251.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0103501.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0103751.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0104001.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0104251.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0104501.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0104751.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0105001.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0105251.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0105501.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0105751.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0106001.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0106251.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0106501.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0106751.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0107001.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0107251.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0107501.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0107751.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0108001.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0108251.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0108501.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0108751.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0109001.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0109251.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0109501.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0109751.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0110001.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0110251.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0110501.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0110751.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0111001.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0111251.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0111501.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0111751.jpg",
+    "text_id": 45
+  },
+  {
+    "frame": "frame_0112001.jpg",
+    "text_id": 46
+  },
+  {
+    "frame": "frame_0112251.jpg",
+    "text_id": 46
+  },
+  {
+    "frame": "frame_0112501.jpg",
+    "text_id": 46
+  },
+  {
+    "frame": "frame_0112751.jpg",
+    "text_id": 46
+  },
+  {
+    "frame": "frame_0113001.jpg",
+    "text_id": 46
+  },
+  {
+    "frame": "frame_0113251.jpg",
+    "text_id": 46
+  },
+  {
+    "frame": "frame_0113501.jpg",
+    "text_id": 46
+  },
+  {
+    "frame": "frame_0113751.jpg",
+    "text_id": 46
+  },
+  {
+    "frame": "frame_0114001.jpg",
+    "text_id": 47
+  },
+  {
+    "frame": "frame_0114251.jpg",
+    "text_id": 47
+  },
+  {
+    "frame": "frame_0114501.jpg",
+    "text_id": 47
+  },
+  {
+    "frame": "frame_0114751.jpg",
+    "text_id": 47
+  },
+  {
+    "frame": "frame_0115001.jpg",
+    "text_id": 47
+  },
+  {
+    "frame": "frame_0115251.jpg",
+    "text_id": 47
+  },
+  {
+    "frame": "frame_0115501.jpg",
+    "text_id": 47
+  },
+  {
+    "frame": "frame_0115751.jpg",
+    "text_id": 47
+  },
+  {
+    "frame": "frame_0116001.jpg",
+    "text_id": 48
+  },
+  {
+    "frame": "frame_0116251.jpg",
+    "text_id": 48
+  },
+  {
+    "frame": "frame_0116501.jpg",
+    "text_id": 48
+  },
+  {
+    "frame": "frame_0116751.jpg",
+    "text_id": 48
+  },
+  {
+    "frame": "frame_0117001.jpg",
+    "text_id": 48
+  },
+  {
+    "frame": "frame_0117251.jpg",
+    "text_id": 48
+  },
+  {
+    "frame": "frame_0117501.jpg",
+    "text_id": 48
+  },
+  {
+    "frame": "frame_0117751.jpg",
+    "text_id": 48
+  },
+  {
+    "frame": "frame_0118001.jpg",
+    "text_id": 49
+  },
+  {
+    "frame": "frame_0118251.jpg",
+    "text_id": 49
+  },
+  {
+    "frame": "frame_0118501.jpg",
+    "text_id": 49
+  },
+  {
+    "frame": "frame_0118751.jpg",
+    "text_id": 49
+  },
+  {
+    "frame": "frame_0119001.jpg",
+    "text_id": 49
+  },
+  {
+    "frame": "frame_0119251.jpg",
+    "text_id": 49
+  },
+  {
+    "frame": "frame_0119501.jpg",
+    "text_id": 49
+  },
+  {
+    "frame": "frame_0119751.jpg",
+    "text_id": 49
+  },
+  {
+    "frame": "frame_0120001.jpg",
+    "text_id": 50
+  },
+  {
+    "frame": "frame_0120251.jpg",
+    "text_id": 50
+  },
+  {
+    "frame": "frame_0120501.jpg",
+    "text_id": 50
+  },
+  {
+    "frame": "frame_0120751.jpg",
+    "text_id": 50
+  },
+  {
+    "frame": "frame_0121001.jpg",
+    "text_id": 50
+  },
+  {
+    "frame": "frame_0121251.jpg",
+    "text_id": 50
+  },
+  {
+    "frame": "frame_0121501.jpg",
+    "text_id": 50
+  },
+  {
+    "frame": "frame_0121751.jpg",
+    "text_id": 50
+  },
+  {
+    "frame": "frame_0122001.jpg",
+    "text_id": 51
+  },
+  {
+    "frame": "frame_0122251.jpg",
+    "text_id": 51
+  },
+  {
+    "frame": "frame_0122501.jpg",
+    "text_id": 51
+  },
+  {
+    "frame": "frame_0122751.jpg",
+    "text_id": 51
+  },
+  {
+    "frame": "frame_0123001.jpg",
+    "text_id": 51
+  },
+  {
+    "frame": "frame_0123251.jpg",
+    "text_id": 51
+  },
+  {
+    "frame": "frame_0123501.jpg",
+    "text_id": 51
+  },
+  {
+    "frame": "frame_0123751.jpg",
+    "text_id": 51
+  },
+  {
+    "frame": "frame_0124001.jpg",
+    "text_id": 52
+  },
+  {
+    "frame": "frame_0124251.jpg",
+    "text_id": 52
+  },
+  {
+    "frame": "frame_0124501.jpg",
+    "text_id": 52
+  },
+  {
+    "frame": "frame_0124751.jpg",
+    "text_id": 52
+  },
+  {
+    "frame": "frame_0125001.jpg",
+    "text_id": 52
+  },
+  {
+    "frame": "frame_0125251.jpg",
+    "text_id": 52
+  },
+  {
+    "frame": "frame_0125501.jpg",
+    "text_id": 52
+  },
+  {
+    "frame": "frame_0125751.jpg",
+    "text_id": 52
+  },
+  {
+    "frame": "frame_0126001.jpg",
+    "text_id": 53
+  },
+  {
+    "frame": "frame_0126251.jpg",
+    "text_id": 53
+  },
+  {
+    "frame": "frame_0126501.jpg",
+    "text_id": 53
+  },
+  {
+    "frame": "frame_0126751.jpg",
+    "text_id": 53
+  },
+  {
+    "frame": "frame_0127001.jpg",
+    "text_id": 53
+  },
+  {
+    "frame": "frame_0127251.jpg",
+    "text_id": 53
+  },
+  {
+    "frame": "frame_0127501.jpg",
+    "text_id": 53
+  },
+  {
+    "frame": "frame_0127751.jpg",
+    "text_id": 53
+  },
+  {
+    "frame": "frame_0128001.jpg",
+    "text_id": 55
+  },
+  {
+    "frame": "frame_0128251.jpg",
+    "text_id": 55
+  },
+  {
+    "frame": "frame_0128501.jpg",
+    "text_id": 55
+  },
+  {
+    "frame": "frame_0128751.jpg",
+    "text_id": 55
+  },
+  {
+    "frame": "frame_0129001.jpg",
+    "text_id": 55
+  },
+  {
+    "frame": "frame_0129251.jpg",
+    "text_id": 55
+  },
+  {
+    "frame": "frame_0129501.jpg",
+    "text_id": 55
+  },
+  {
+    "frame": "frame_0129751.jpg",
+    "text_id": 55
+  },
+  {
+    "frame": "frame_0130001.jpg",
+    "text_id": 57
+  },
+  {
+    "frame": "frame_0130251.jpg",
+    "text_id": 57
+  },
+  {
+    "frame": "frame_0130501.jpg",
+    "text_id": 57
+  },
+  {
+    "frame": "frame_0130751.jpg",
+    "text_id": 57
+  },
+  {
+    "frame": "frame_0131001.jpg",
+    "text_id": 57
+  },
+  {
+    "frame": "frame_0131251.jpg",
+    "text_id": 57
+  },
+  {
+    "frame": "frame_0131501.jpg",
+    "text_id": 57
+  },
+  {
+    "frame": "frame_0131751.jpg",
+    "text_id": 57
+  },
+  {
+    "frame": "frame_0132001.jpg",
+    "text_id": 60
+  },
+  {
+    "frame": "frame_0132251.jpg",
+    "text_id": 60
+  },
+  {
+    "frame": "frame_0132501.jpg",
+    "text_id": 60
+  },
+  {
+    "frame": "frame_0132751.jpg",
+    "text_id": 60
+  },
+  {
+    "frame": "frame_0133001.jpg",
+    "text_id": 60
+  },
+  {
+    "frame": "frame_0133251.jpg",
+    "text_id": 60
+  },
+  {
+    "frame": "frame_0133501.jpg",
+    "text_id": 60
+  },
+  {
+    "frame": "frame_0133751.jpg",
+    "text_id": 60
+  },
+  {
+    "frame": "frame_0134001.jpg",
+    "text_id": 61
+  },
+  {
+    "frame": "frame_0134251.jpg",
+    "text_id": 61
+  },
+  {
+    "frame": "frame_0134501.jpg",
+    "text_id": 61
+  },
+  {
+    "frame": "frame_0134751.jpg",
+    "text_id": 61
+  },
+  {
+    "frame": "frame_0135001.jpg",
+    "text_id": 61
+  },
+  {
+    "frame": "frame_0135251.jpg",
+    "text_id": 61
+  },
+  {
+    "frame": "frame_0135501.jpg",
+    "text_id": 61
+  },
+  {
+    "frame": "frame_0135751.jpg",
+    "text_id": 61
+  },
+  {
+    "frame": "frame_0136001.jpg",
+    "text_id": 63
+  },
+  {
+    "frame": "frame_0136251.jpg",
+    "text_id": 63
+  },
+  {
+    "frame": "frame_0136501.jpg",
+    "text_id": 63
+  },
+  {
+    "frame": "frame_0136751.jpg",
+    "text_id": 63
+  },
+  {
+    "frame": "frame_0137001.jpg",
+    "text_id": 63
+  },
+  {
+    "frame": "frame_0137251.jpg",
+    "text_id": 63
+  },
+  {
+    "frame": "frame_0137501.jpg",
+    "text_id": 63
+  },
+  {
+    "frame": "frame_0137751.jpg",
+    "text_id": 63
+  },
+  {
+    "frame": "frame_0138001.jpg",
+    "text_id": 64
+  },
+  {
+    "frame": "frame_0138251.jpg",
+    "text_id": 64
+  },
+  {
+    "frame": "frame_0138501.jpg",
+    "text_id": 64
+  },
+  {
+    "frame": "frame_0138751.jpg",
+    "text_id": 64
+  },
+  {
+    "frame": "frame_0139001.jpg",
+    "text_id": 64
+  },
+  {
+    "frame": "frame_0139251.jpg",
+    "text_id": 64
+  },
+  {
+    "frame": "frame_0139501.jpg",
+    "text_id": 64
+  },
+  {
+    "frame": "frame_0139751.jpg",
+    "text_id": 64
+  },
+  {
+    "frame": "frame_0140001.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0140251.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0140501.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0140751.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0141001.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0141251.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0141501.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0141751.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0142001.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0142251.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0142501.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0142751.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0143001.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0143251.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0143501.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0143751.jpg",
+    "text_id": 65
+  },
+  {
+    "frame": "frame_0144001.jpg",
+    "text_id": 66
+  },
+  {
+    "frame": "frame_0144251.jpg",
+    "text_id": 66
+  },
+  {
+    "frame": "frame_0144501.jpg",
+    "text_id": 66
+  },
+  {
+    "frame": "frame_0144751.jpg",
+    "text_id": 66
+  },
+  {
+    "frame": "frame_0145001.jpg",
+    "text_id": 66
+  },
+  {
+    "frame": "frame_0145251.jpg",
+    "text_id": 66
+  },
+  {
+    "frame": "frame_0145501.jpg",
+    "text_id": 66
+  },
+  {
+    "frame": "frame_0145751.jpg",
+    "text_id": 66
+  },
+  {
+    "frame": "frame_0146001.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0146251.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0146501.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0146751.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0147001.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0147251.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0147501.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0147751.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0148001.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0148251.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0148501.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0148751.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0149001.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0149251.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0149501.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0149751.jpg",
+    "text_id": 67
+  },
+  {
+    "frame": "frame_0150001.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0150251.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0150501.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0150751.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0151001.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0151251.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0151501.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0151751.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0152001.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0152251.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0152501.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0152751.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0153001.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0153251.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0153501.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0153751.jpg",
+    "text_id": 68
+  },
+  {
+    "frame": "frame_0154001.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0154251.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0154501.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0154751.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0155001.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0155251.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0155501.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0155751.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0156001.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0156251.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0156501.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0156751.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0157001.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0157251.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0157501.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0157751.jpg",
+    "text_id": 69
+  },
+  {
+    "frame": "frame_0158001.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0158251.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0158501.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0158751.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0159001.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0159251.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0159501.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0159751.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0160001.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0160251.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0160501.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0160751.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0161001.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0161251.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0161501.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0161751.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0162001.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0162251.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0162501.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0162751.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0163001.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0163251.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0163501.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0163751.jpg",
+    "text_id": 70
+  },
+  {
+    "frame": "frame_0164001.jpg",
+    "text_id": 71
+  },
+  {
+    "frame": "frame_0164251.jpg",
+    "text_id": 71
+  },
+  {
+    "frame": "frame_0164501.jpg",
+    "text_id": 71
+  },
+  {
+    "frame": "frame_0164751.jpg",
+    "text_id": 71
+  },
+  {
+    "frame": "frame_0165001.jpg",
+    "text_id": 71
+  },
+  {
+    "frame": "frame_0165251.jpg",
+    "text_id": 71
+  },
+  {
+    "frame": "frame_0165501.jpg",
+    "text_id": 71
+  },
+  {
+    "frame": "frame_0165751.jpg",
+    "text_id": 71
+  },
+  {
+    "frame": "frame_0166001.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0166251.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0166501.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0166751.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0167001.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0167251.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0167501.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0167751.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0168001.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0168251.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0168501.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0168751.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0169001.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0169251.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0169501.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0169751.jpg",
+    "text_id": 72
+  },
+  {
+    "frame": "frame_0170001.jpg",
+    "text_id": 73
+  },
+  {
+    "frame": "frame_0170251.jpg",
+    "text_id": 73
+  },
+  {
+    "frame": "frame_0170501.jpg",
+    "text_id": 73
+  },
+  {
+    "frame": "frame_0170751.jpg",
+    "text_id": 73
+  },
+  {
+    "frame": "frame_0171001.jpg",
+    "text_id": 73
+  },
+  {
+    "frame": "frame_0171251.jpg",
+    "text_id": 73
+  },
+  {
+    "frame": "frame_0171501.jpg",
+    "text_id": 73
+  },
+  {
+    "frame": "frame_0171751.jpg",
+    "text_id": 73
+  },
+  {
+    "frame": "frame_0172001.jpg",
+    "text_id": 74
+  },
+  {
+    "frame": "frame_0172251.jpg",
+    "text_id": 74
+  },
+  {
+    "frame": "frame_0172501.jpg",
+    "text_id": 74
+  },
+  {
+    "frame": "frame_0172751.jpg",
+    "text_id": 74
+  },
+  {
+    "frame": "frame_0173001.jpg",
+    "text_id": 74
+  },
+  {
+    "frame": "frame_0173251.jpg",
+    "text_id": 74
+  },
+  {
+    "frame": "frame_0173501.jpg",
+    "text_id": 74
+  },
+  {
+    "frame": "frame_0173751.jpg",
+    "text_id": 74
+  },
+  {
+    "frame": "frame_0174001.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0174251.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0174501.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0174751.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0175001.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0175251.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0175501.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0175751.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0176001.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0176251.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0176501.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0176751.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0177001.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0177251.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0177501.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0177751.jpg",
+    "text_id": 75
+  },
+  {
+    "frame": "frame_0178001.jpg",
+    "text_id": 76
+  },
+  {
+    "frame": "frame_0178251.jpg",
+    "text_id": 76
+  },
+  {
+    "frame": "frame_0178501.jpg",
+    "text_id": 76
+  },
+  {
+    "frame": "frame_0178751.jpg",
+    "text_id": 76
+  },
+  {
+    "frame": "frame_0179001.jpg",
+    "text_id": 76
+  },
+  {
+    "frame": "frame_0179251.jpg",
+    "text_id": 76
+  },
+  {
+    "frame": "frame_0179501.jpg",
+    "text_id": 76
+  },
+  {
+    "frame": "frame_0179751.jpg",
+    "text_id": 76
+  },
+  {
+    "frame": "frame_0180001.jpg",
+    "text_id": 77
+  },
+  {
+    "frame": "frame_0180251.jpg",
+    "text_id": 77
+  },
+  {
+    "frame": "frame_0180501.jpg",
+    "text_id": 77
+  },
+  {
+    "frame": "frame_0180751.jpg",
+    "text_id": 77
+  },
+  {
+    "frame": "frame_0181001.jpg",
+    "text_id": 77
+  },
+  {
+    "frame": "frame_0181251.jpg",
+    "text_id": 77
+  },
+  {
+    "frame": "frame_0181501.jpg",
+    "text_id": 77
+  },
+  {
+    "frame": "frame_0181751.jpg",
+    "text_id": 77
+  },
+  {
+    "frame": "frame_0182001.jpg",
+    "text_id": 78
+  },
+  {
+    "frame": "frame_0182251.jpg",
+    "text_id": 78
+  },
+  {
+    "frame": "frame_0182501.jpg",
+    "text_id": 78
+  },
+  {
+    "frame": "frame_0182751.jpg",
+    "text_id": 78
+  },
+  {
+    "frame": "frame_0183001.jpg",
+    "text_id": 78
+  },
+  {
+    "frame": "frame_0183251.jpg",
+    "text_id": 78
+  },
+  {
+    "frame": "frame_0183501.jpg",
+    "text_id": 78
+  },
+  {
+    "frame": "frame_0183751.jpg",
+    "text_id": 78
+  },
+  {
+    "frame": "frame_0184001.jpg",
+    "text_id": 79
+  },
+  {
+    "frame": "frame_0184251.jpg",
+    "text_id": 79
+  },
+  {
+    "frame": "frame_0184501.jpg",
+    "text_id": 79
+  },
+  {
+    "frame": "frame_0184751.jpg",
+    "text_id": 79
+  },
+  {
+    "frame": "frame_0185001.jpg",
+    "text_id": 79
+  },
+  {
+    "frame": "frame_0185251.jpg",
+    "text_id": 79
+  },
+  {
+    "frame": "frame_0185501.jpg",
+    "text_id": 79
+  },
+  {
+    "frame": "frame_0185751.jpg",
+    "text_id": 79
+  },
+  {
+    "frame": "frame_0186001.jpg",
+    "text_id": 80
+  },
+  {
+    "frame": "frame_0186251.jpg",
+    "text_id": 80
+  },
+  {
+    "frame": "frame_0186501.jpg",
+    "text_id": 80
+  },
+  {
+    "frame": "frame_0186751.jpg",
+    "text_id": 80
+  },
+  {
+    "frame": "frame_0187001.jpg",
+    "text_id": 80
+  },
+  {
+    "frame": "frame_0187251.jpg",
+    "text_id": 80
+  },
+  {
+    "frame": "frame_0187501.jpg",
+    "text_id": 80
+  },
+  {
+    "frame": "frame_0187751.jpg",
+    "text_id": 80
+  },
+  {
+    "frame": "frame_0188001.jpg",
+    "text_id": 81
+  },
+  {
+    "frame": "frame_0188251.jpg",
+    "text_id": 81
+  },
+  {
+    "frame": "frame_0188501.jpg",
+    "text_id": 81
+  },
+  {
+    "frame": "frame_0188751.jpg",
+    "text_id": 81
+  },
+  {
+    "frame": "frame_0189001.jpg",
+    "text_id": 81
+  },
+  {
+    "frame": "frame_0189251.jpg",
+    "text_id": 81
+  },
+  {
+    "frame": "frame_0189501.jpg",
+    "text_id": 81
+  },
+  {
+    "frame": "frame_0189751.jpg",
+    "text_id": 81
+  },
+  {
+    "frame": "frame_0190001.jpg",
+    "text_id": 82
+  },
+  {
+    "frame": "frame_0190251.jpg",
+    "text_id": 82
+  },
+  {
+    "frame": "frame_0190501.jpg",
+    "text_id": 82
+  },
+  {
+    "frame": "frame_0190751.jpg",
+    "text_id": 82
+  },
+  {
+    "frame": "frame_0191001.jpg",
+    "text_id": 82
+  },
+  {
+    "frame": "frame_0191251.jpg",
+    "text_id": 82
+  },
+  {
+    "frame": "frame_0191501.jpg",
+    "text_id": 82
+  },
+  {
+    "frame": "frame_0191751.jpg",
+    "text_id": 82
+  },
+  {
+    "frame": "frame_0192001.jpg",
+    "text_id": 83
+  },
+  {
+    "frame": "frame_0192251.jpg",
+    "text_id": 83
+  },
+  {
+    "frame": "frame_0192501.jpg",
+    "text_id": 83
+  },
+  {
+    "frame": "frame_0192751.jpg",
+    "text_id": 83
+  },
+  {
+    "frame": "frame_0193001.jpg",
+    "text_id": 83
+  },
+  {
+    "frame": "frame_0193251.jpg",
+    "text_id": 83
+  },
+  {
+    "frame": "frame_0193501.jpg",
+    "text_id": 83
+  },
+  {
+    "frame": "frame_0193751.jpg",
+    "text_id": 83
+  },
+  {
+    "frame": "frame_0194001.jpg",
+    "text_id": 84
+  },
+  {
+    "frame": "frame_0194251.jpg",
+    "text_id": 84
+  },
+  {
+    "frame": "frame_0194501.jpg",
+    "text_id": 84
+  },
+  {
+    "frame": "frame_0194751.jpg",
+    "text_id": 84
+  },
+  {
+    "frame": "frame_0195001.jpg",
+    "text_id": 84
+  },
+  {
+    "frame": "frame_0195251.jpg",
+    "text_id": 84
+  },
+  {
+    "frame": "frame_0195501.jpg",
+    "text_id": 84
+  },
+  {
+    "frame": "frame_0195751.jpg",
+    "text_id": 84
+  },
+  {
+    "frame": "frame_0196001.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0196251.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0196501.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0196751.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0197001.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0197251.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0197501.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0197751.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0198001.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0198251.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0198501.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0198751.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0199001.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0199251.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0199501.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0199751.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0200001.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0200251.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0200501.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0200751.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0201001.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0201251.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0201501.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0201751.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0202001.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0202251.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0202501.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0202751.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0203001.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0203251.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0203501.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0203751.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0204001.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0204251.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0204501.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0204751.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0205001.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0205251.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0205501.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0205751.jpg",
+    "text_id": 85
+  },
+  {
+    "frame": "frame_0206001.jpg",
+    "text_id": 86
+  },
+  {
+    "frame": "frame_0206251.jpg",
+    "text_id": 86
+  },
+  {
+    "frame": "frame_0206501.jpg",
+    "text_id": 86
+  },
+  {
+    "frame": "frame_0206751.jpg",
+    "text_id": 86
+  },
+  {
+    "frame": "frame_0207001.jpg",
+    "text_id": 86
+  },
+  {
+    "frame": "frame_0207251.jpg",
+    "text_id": 86
+  },
+  {
+    "frame": "frame_0207501.jpg",
+    "text_id": 86
+  },
+  {
+    "frame": "frame_0207751.jpg",
+    "text_id": 86
+  },
+  {
+    "frame": "frame_0208001.jpg",
+    "text_id": 87
+  },
+  {
+    "frame": "frame_0208251.jpg",
+    "text_id": 87
+  },
+  {
+    "frame": "frame_0208501.jpg",
+    "text_id": 87
+  },
+  {
+    "frame": "frame_0208751.jpg",
+    "text_id": 87
+  },
+  {
+    "frame": "frame_0209001.jpg",
+    "text_id": 87
+  },
+  {
+    "frame": "frame_0209251.jpg",
+    "text_id": 87
+  },
+  {
+    "frame": "frame_0209501.jpg",
+    "text_id": 87
+  },
+  {
+    "frame": "frame_0209751.jpg",
+    "text_id": 87
+  },
+  {
+    "frame": "frame_0210001.jpg",
+    "text_id": 88
+  },
+  {
+    "frame": "frame_0210251.jpg",
+    "text_id": 88
+  },
+  {
+    "frame": "frame_0210501.jpg",
+    "text_id": 88
+  },
+  {
+    "frame": "frame_0210751.jpg",
+    "text_id": 88
+  },
+  {
+    "frame": "frame_0211001.jpg",
+    "text_id": 88
+  },
+  {
+    "frame": "frame_0211251.jpg",
+    "text_id": 88
+  },
+  {
+    "frame": "frame_0211501.jpg",
+    "text_id": 88
+  },
+  {
+    "frame": "frame_0211751.jpg",
+    "text_id": 88
+  },
+  {
+    "frame": "frame_0212001.jpg",
+    "text_id": 89
+  },
+  {
+    "frame": "frame_0212251.jpg",
+    "text_id": 89
+  },
+  {
+    "frame": "frame_0212501.jpg",
+    "text_id": 89
+  },
+  {
+    "frame": "frame_0212751.jpg",
+    "text_id": 89
+  },
+  {
+    "frame": "frame_0213001.jpg",
+    "text_id": 89
+  },
+  {
+    "frame": "frame_0213251.jpg",
+    "text_id": 89
+  },
+  {
+    "frame": "frame_0213501.jpg",
+    "text_id": 89
+  },
+  {
+    "frame": "frame_0213751.jpg",
+    "text_id": 89
+  },
+  {
+    "frame": "frame_0214001.jpg",
+    "text_id": 90
+  },
+  {
+    "frame": "frame_0214251.jpg",
+    "text_id": 90
+  },
+  {
+    "frame": "frame_0214501.jpg",
+    "text_id": 90
+  },
+  {
+    "frame": "frame_0214751.jpg",
+    "text_id": 90
+  },
+  {
+    "frame": "frame_0215001.jpg",
+    "text_id": 90
+  },
+  {
+    "frame": "frame_0215251.jpg",
+    "text_id": 90
+  },
+  {
+    "frame": "frame_0215501.jpg",
+    "text_id": 90
+  },
+  {
+    "frame": "frame_0215751.jpg",
+    "text_id": 90
+  },
+  {
+    "frame": "frame_0216001.jpg",
+    "text_id": 91
+  },
+  {
+    "frame": "frame_0216251.jpg",
+    "text_id": 91
+  },
+  {
+    "frame": "frame_0216501.jpg",
+    "text_id": 91
+  },
+  {
+    "frame": "frame_0216751.jpg",
+    "text_id": 91
+  },
+  {
+    "frame": "frame_0217001.jpg",
+    "text_id": 91
+  },
+  {
+    "frame": "frame_0217251.jpg",
+    "text_id": 91
+  },
+  {
+    "frame": "frame_0217501.jpg",
+    "text_id": 91
+  },
+  {
+    "frame": "frame_0217751.jpg",
+    "text_id": 91
+  },
+  {
+    "frame": "frame_0218001.jpg",
+    "text_id": 93
+  },
+  {
+    "frame": "frame_0218251.jpg",
+    "text_id": 93
+  },
+  {
+    "frame": "frame_0218501.jpg",
+    "text_id": 93
+  },
+  {
+    "frame": "frame_0218751.jpg",
+    "text_id": 93
+  },
+  {
+    "frame": "frame_0219001.jpg",
+    "text_id": 93
+  },
+  {
+    "frame": "frame_0219251.jpg",
+    "text_id": 93
+  },
+  {
+    "frame": "frame_0219501.jpg",
+    "text_id": 93
+  },
+  {
+    "frame": "frame_0219751.jpg",
+    "text_id": 93
+  },
+  {
+    "frame": "frame_0220001.jpg",
+    "text_id": 95
+  },
+  {
+    "frame": "frame_0220251.jpg",
+    "text_id": 95
+  },
+  {
+    "frame": "frame_0220501.jpg",
+    "text_id": 95
+  },
+  {
+    "frame": "frame_0220751.jpg",
+    "text_id": 95
+  },
+  {
+    "frame": "frame_0221001.jpg",
+    "text_id": 95
+  },
+  {
+    "frame": "frame_0221251.jpg",
+    "text_id": 95
+  },
+  {
+    "frame": "frame_0221501.jpg",
+    "text_id": 96
+  }
+]
