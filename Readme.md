@@ -4,7 +4,9 @@ This project is the result of the #devfest16 hackathon at Columbia University, w
 
 The goal of this project is to analyse the variation in presidential candidates' emotions during debates. For that matter, we took as a sample the debate between Hillary Clinton and Bernie Sanders, which took place on February 4th, 2016. 
 
-Samples were taken from the following video 
+Samples were taken from the following video:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/5fgBT0eec_4/0.jpg)](http://www.youtube.com/watch?v=5fgBT0eec_4 "Presidential Debate")
 
 ## Sample screenshots
 
